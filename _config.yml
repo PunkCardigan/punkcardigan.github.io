@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "none@example.org"
 
   # Academic websites
   academia         : # URL
@@ -52,8 +52,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -233,9 +233,22 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  introduction: 
+  introduction:
     output: true
     permalink: /:collection/:path/
+  resume:
+    output: true
+    permalink: /:collection/:path/
+  profstate:
+    output: true
+    permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
+  profdev:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -294,13 +307,40 @@ defaults:
       author_profile: true
       share: true
   # _introduction
-  -scope:
+  - scope:
     path: ""
     type: introduction
     layout: single
     author_profile: true
     share: true
-
+ # _resume
+  - scope:
+    path: ""
+    type: resume
+    layout: single
+    author_profile: true
+    share: true
+  # _profstate
+  - scope:
+    path: ""
+    type: profstate
+    layout: single
+    author_profile: true
+    share: true
+  # _work
+  - scope:
+    path: ""
+    type: work
+    layout: single
+    author_profile: true
+    share: true
+  # _profdev
+  - scope:
+    path: ""
+    type: profdev
+    layout: single
+    author_profile: true
+    share: true
 
 # Sass/SCSS
 sass:
