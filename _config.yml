@@ -290,6 +290,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _introduction
+  -scope:
+    path: ""
+    type: introduction
+    layout: single
+    author_profile: true
+    share: true
 
 
 # Sass/SCSS
