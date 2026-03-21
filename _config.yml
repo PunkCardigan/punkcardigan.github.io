@@ -28,7 +28,7 @@ author:
   pronouns         : She/Her # example: "she/her"
   bio              : ""
   location         : "Iowa"
-  employer         : "Nevada Public Library, IA
+  employer         : "Nevada Public Library, IA"
   uri              : # URL
   email            : "bdueker@uiowa.edu"
 
@@ -308,39 +308,44 @@ defaults:
       share: true
   # _introduction
   - scope:
-    path: ""
-    type: introduction
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: introduction
+    values:
+      layout: single
+      author_profile: true
+      share: true
  # _resume
   - scope:
-    path: ""
-    type: resume
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: resume
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _profstate
   - scope:
-    path: ""
-    type: profstate
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: profstate
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _work
   - scope:
-    path: ""
-    type: work
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _profdev
   - scope:
-    path: ""
-    type: profdev
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: profdev
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
