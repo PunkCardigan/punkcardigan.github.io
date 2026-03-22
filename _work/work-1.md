@@ -20,21 +20,21 @@ The Casting Off Essay helped me identify areas that I would like to work in and 
 
 Professional Development
 ---
-Moulaison-Sandy, H. (2023). Challenges to inclusive catalog use. ALA 2023.
+Moulaison-Sandy, H. (2023). Challenges to inclusive catalog use. ALA 2023. <br/>
 https://youtu.be/UfOkAQjYlTw?si=RvtoH6eE2W3nzl_A&t=1402
 
 This is a webinar recording from OCLC and ALA 2023 called Transforming Metadata, specifically the second lecture, given by Heather Moulaison-Sandy, which starts at approximately 23:22. This webinar focuses on catalog access and why using a library catalog might be difficult for the LGBTQ+ community specifically. 
 
 **Three things I learned:**
 
-- controlled vocabularies often rely on the words that exit within the collection (literary warrant) and not necessarily the terminology that users are familiar with.
+- Controlled vocabularies often rely on the words that exit within the collection (literary warrant) and not necessarily the terminology that users are familiar with.
 - Terminology used by the LGBTQ+ community in regards to identity is incredibly diverse.
 - LCSH may not be as useful of a tool for modern librarians given the variety of alternatives available, and fixing "the system we have" may not be a good use of resources.
 
 **Two questions I have:**
 
 - In the time since this talk, have there been any formal studies done on systems that try to organize the complexity of LGBTQ+ identity terminology?
-- what terminology is confusing to patrons at my library?
+- What terminology is confusing to patrons at my library?
 
 **One thing I will do differently:**
 
