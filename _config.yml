@@ -28,7 +28,7 @@ author:
   pronouns         : She/Her # example: "she/her"
   bio              : ""
   location         : "Iowa"
-  employer         : "Nevada Public Library, IA
+  employer         : "Nevada Public Library, IA"
   uri              : # URL
   email            : "bdueker@uiowa.edu"
 
@@ -233,19 +233,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  introduction:
-    output: true
-    permalink: /:collection/:path/
-  resume:
-    output: true
-    permalink: /:collection/:path/
-  profstate:
+  aboutme:
     output: true
     permalink: /:collection/:path/
   work:
     output: true
     permalink: /:collection/:path/
-  profdev:
+  fun:
     output: true
     permalink: /:collection/:path/
 
@@ -306,41 +300,30 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _introduction
+  # _aboutme
   - scope:
-    path: ""
-    type: introduction
-    layout: single
-    author_profile: true
-    share: true
- # _resume
-  - scope:
-    path: ""
-    type: resume
-    layout: single
-    author_profile: true
-    share: true
-  # _profstate
-  - scope:
-    path: ""
-    type: profstate
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: introduction
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _work
   - scope:
-    path: ""
-    type: work
-    layout: single
-    author_profile: true
-    share: true
-  # _profdev
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _fun
   - scope:
-    path: ""
-    type: profdev
-    layout: single
-    author_profile: true
-    share: true
+      path: ""
+      type: fun
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
