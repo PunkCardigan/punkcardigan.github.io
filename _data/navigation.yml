@@ -32,17 +32,11 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Introduction"
-    url: /introduction/
-
-  - title: "Resume"
-    url: /resume/
-
-  - title: "Professional Statement"
-    url: /profstate/
+  - title: "About Me"
+    url: /aboutme/
 
   - title: "Work Samples"
     url: /work/
 
-  - title: "Professional Development"
-    url: /profdev/
+  - title: "Just For Fun"
+    url: /fun/

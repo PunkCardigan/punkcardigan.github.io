@@ -233,19 +233,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  introduction:
-    output: true
-    permalink: /:collection/:path/
-  resume:
-    output: true
-    permalink: /:collection/:path/
-  profstate:
+  aboutme:
     output: true
     permalink: /:collection/:path/
   work:
     output: true
     permalink: /:collection/:path/
-  profdev:
+  fun:
     output: true
     permalink: /:collection/:path/
 
@@ -306,26 +300,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _introduction
+  # _aboutme
   - scope:
       path: ""
       type: introduction
-    values:
-      layout: single
-      author_profile: true
-      share: true
- # _resume
-  - scope:
-      path: ""
-      type: resume
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _profstate
-  - scope:
-      path: ""
-      type: profstate
     values:
       layout: single
       author_profile: true
@@ -338,10 +316,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _profdev
+  # _fun
   - scope:
       path: ""
-      type: profdev
+      type: fun
     values:
       layout: single
       author_profile: true
