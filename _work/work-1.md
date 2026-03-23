@@ -4,12 +4,12 @@ excerpt: "Libraries, Culture, and Society (SLIS 5010): Casting Off Essay <br/>"
 collection: work
 ---
 
-The Casting-Off Essay assignment is an approximately 10 page research essay that reflects an informed opinion on a library science topic, supported by documented/cited research. 
+The Casting-Off Essay assignment is an approximately 10 page research essay that reflects an informed opinion on a library science topic, supported by documented/cited research.
 
 [Casting-Off Essay (PDF)](/files/castingoffessay.pdf)
 ---
 
-This essay was a little tricky for me, as a fairly new MLIS student and as someone who lacks a strong technical background, but I did get to the point where I felt that I was able to explain what Linked Data is (at a high level) and the basics of how it functions and differs from MaRC. 
+This essay was a little tricky for me, as a fairly new MLIS student and as someone who lacks a strong technical background, but I did get to the point where I felt that I was able to explain what Linked Data is (at a high level) and the basics of how it functions and differs from MaRC.
 
 The ALA identifies Gateway Knowledge as a core competence for library professionals. While we touched on all of the subcategories of the competence at least a little in this class, the two that I think I’ve accomplished most fully are the following:
 
@@ -23,7 +23,7 @@ Professional Development
 Moulaison-Sandy, H. (2023). Challenges to inclusive catalog use. ALA 2023. <br/>
 https://youtu.be/UfOkAQjYlTw?si=RvtoH6eE2W3nzl_A&t=1402
 
-This is a webinar recording from OCLC and ALA 2023 called Transforming Metadata, specifically the second lecture, given by Heather Moulaison-Sandy, which starts at approximately 23:22. This webinar focuses on catalog access and why using a library catalog might be difficult for the LGBTQ+ community specifically. 
+This is a webinar recording from OCLC and ALA 2023 called Transforming Metadata, specifically the second lecture, given by Heather Moulaison-Sandy, which starts at approximately 23:22. This webinar focuses on catalog access and why using a library catalog might be difficult for the LGBTQ+ community specifically.
 
 **Three things I learned:**
 
