@@ -19,14 +19,7 @@ The kinds of search strategies that the textbook mentioned were fascinating to m
 
 I plan to continue learning about and using different resources to perform searches and find information for patrons in ways that are meaningful to them. I’m always curious about how search engines and other querying tools work behind the scenes and I want to learn more about innovative ways to reduce barriers to accessing information for everyone.
 
+
 Professional Development
 ---
-
-
-**Three things I learned:**
-
-
-**Two questions I have:**
-
-
-**One thing I will do differently:**
+The State Library of Iowa has a webinar produced in collaboration with the Iowa Library for the Blind and Print Disabled called "Braille and Audio Reading Download (BARD)". I am always looking for new resources for my patrons and would be interested in learning more about what is available on BARD.

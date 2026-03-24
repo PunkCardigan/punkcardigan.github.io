@@ -9,8 +9,11 @@ This essay is a reflective piece about engaging in professional collaboration an
 [Reflective Essay (PDF)](/files/reflectiveessay.pdf)
 
 
+Social Justice is competence 8, and this essay clearly addresses subcategory 8A (Understand one's own cultural identity including positionality related to power, privilege, and oppression and how that influences the ways they interact with the community and among decision makers.), since, as I state in the essay, I recognize that I have privilege in that I am a white, heterosexual, cis-gender person with a bachelor’s degree (soon to be master's degree!) and a middle-class household income. I also lack privilege as a neurodevelopmentally disabled woman who grew up poor and is a first generation college student.
 
-analysis/reflection
+This essay also touches on subcategory 8B (Recognize, challenge, and change practices, services, and programs that have traditionally replicated dominant systems and marginalized others.) as I briefly discuss inclusive cataloging and the varied information needs of library professionals to implement changes.
+
+Understanding yourself and your patrons are both fundamental to making libraries the kinds of places we idealize them to be.
 
 
 Professional Development

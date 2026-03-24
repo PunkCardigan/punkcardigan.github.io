@@ -20,11 +20,4 @@ A topic that has fascinated me for a while now has been the ways that knowledge 
 Professional Development
 ---
 
-
-**Three things I learned:**
-
-
-**Two questions I have:**
-
-
-**One thing I will do differently:**
+OCLC's Hanging Together blog is where OCLC Research staff discuss their work. They have tons of posts about cataloging, metadata, and other topics I am curious about. There's recently been a lot of talk about linked data and I found a webinar on WebJunction that I would like to watch called "Linked Data for Public Libraries: An Introduction" presented by Anne Washington in September 2025. [link](https://www.webjunction.org/events/webjunction/linked-data-for-public-libraries.html)
