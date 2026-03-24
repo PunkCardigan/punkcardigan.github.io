@@ -22,11 +22,4 @@ When reflecting on the group assignment, I was able to see that my preference fo
 Professional Development
 ---
 
-
-**Three things I learned:**
-
-
-**Two questions I have:**
-
-
-**One thing I will do differently:**
+The Iowa State Library has an archive of webinars and other continuing education opportunities available through their Workday platform and their YouTube page. One webinar that I would like to watch is from ILOC 2025 called <i>Using Data and State Data Center Services to Evaluate Library Services</i>. [link](https://www.youtube.com/watch?v=d_M_0FKM-Tw)
